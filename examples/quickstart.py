@@ -63,7 +63,7 @@ When a user asks you to analyze data, you must follow these steps:
         base_url="http://localhost:8000",
         model="annie-pro",
         environment=agent_env,
-        api_key="pk_f*********",
+        api_key="pk_4e5a79154a154faed9247971152c848b66ffda9bf1c6a86232ebff4c71715745",
         tools=tools,
     )
 
